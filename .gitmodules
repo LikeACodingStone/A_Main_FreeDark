@@ -13,3 +13,6 @@
 [submodule "FreeDark_0003_GuitarPro_Music"]
 	path = FreeDark_0003_GuitarPro_Music
 	url = git@github.com:LikeACodingStone/FreeDark_0003_GuitarPro_Music.git
+[submodule "FreeDark_0006_Poetry_Documents"]
+	path = FreeDark_0006_Poetry_Documents
+	url = git@github.com:LikeACodingStone/FreeDark_0006_Poetry_Documents.git
