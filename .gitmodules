@@ -10,3 +10,6 @@
 [submodule "FreeDark_0005_ToolsName_Record"]
 	path = FreeDark_0005_ToolsName_Record
 	url = git@github.com:LikeACodingStone/FreeDark_0005_ToolsName_Record.git
+[submodule "FreeDark_0003_GuitarPro_Music"]
+	path = FreeDark_0003_GuitarPro_Music
+	url = git@github.com:LikeACodingStone/FreeDark_0003_GuitarPro_Music.git
