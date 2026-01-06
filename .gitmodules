@@ -1,0 +1,15 @@
+[submodule "FreeDark_0001_ElectricBooks"]
+	path = FreeDark_0001_ElectricBooks
+	url = git@github.com:LikeACodingStone/FreeDark_0001_ElectricBooks.git
+[submodule "FreeDark_0002_Movies"]
+	path = FreeDark_0002_Movies
+	url = git@github.com:LikeACodingStone/FreeDark_0002_Movies.git
+[submodule "FreeDark_0003_GuitarPro_GTPFiles"]
+	path = FreeDark_0003_GuitarPro_GTPFiles
+	url = git@github.com:LikeACodingStone/FreeDark_0003_GuitarPro_GTPFiles.git
+[submodule "FreeDark_0004_Youtube_Channels"]
+	path = FreeDark_0004_Youtube_Channels
+	url = git@github.com:LikeACodingStone/FreeDark_0004_Youtube_Channels.git
+[submodule "FreeDark_0005_ToolsName_Record"]
+	path = FreeDark_0005_ToolsName_Record
+	url = git@github.com:LikeACodingStone/FreeDark_0005_ToolsName_Record.git
