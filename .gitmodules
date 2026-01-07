@@ -5,7 +5,7 @@
 	path = FreeDark_0002_Movies
 	url = git@github.com:LikeACodingStone/FreeDark_0002_Movies.git
 [submodule "FreeDark_0004_Youtube_Channels"]
-	path = FreeDark_0004_Youtube_Channels
+	path = FreeDark_0004_All_Weblinks
 	url = git@github.com:LikeACodingStone/FreeDark_0004_Youtube_Channels.git
 [submodule "FreeDark_0005_ToolsName_Record"]
 	path = FreeDark_0005_ToolsName_Record
